@@ -1,4 +1,4 @@
-whisper
 fastapi
-uvicorn[standard]
-torch
+aiofiles
+python-multipart
+uvicorn
